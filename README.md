@@ -8,6 +8,10 @@ Main Page: https://www.simcapsule.cn
 
 Video: https://www.bilibili.com/video/BV1AZ4y1p7hK
 
+Supported Device: PC & iPAD
+
+Supported Web Browser: Safari，Edge，Firefox，Chrome
+
 # simCapsule Internal Flow
 https://github.com/xtonywang/simCapsule-Internal-Flow
 
