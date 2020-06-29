@@ -4,8 +4,9 @@ SimCapsule is an extensible PaaS offering that supports the development, executi
 
 Interested parties are invited to explore how SimCapsule could benefit their design teams and analysis processes.
 
-Main Page:
-https://www.simcapsule.cn
+Main Page: https://www.simcapsule.cn
+
+Video: https://www.bilibili.com/video/BV1AZ4y1p7hK
 
 # simCapsule Internal Flow
 https://github.com/xtonywang/simCapsule-Internal-Flow
