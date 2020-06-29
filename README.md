@@ -12,6 +12,8 @@ Supported Device: PC & iPAD
 
 Supported Web Browser: Safari，Edge，Firefox，Chrome
 
+Contact: contact@simcapsule.com
+
 # simCapsule Internal Flow
 https://github.com/xtonywang/simCapsule-Internal-Flow
 
